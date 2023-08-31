@@ -1,0 +1,14 @@
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\obj\Debug\net7.0\MissingInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\obj\Debug\net7.0\MissingInteger.AssemblyInfoInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\obj\Debug\net7.0\MissingInteger.AssemblyInfo.cs
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\obj\Debug\net7.0\MissingInteger.csproj.CoreCompileInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\bin\Debug\net7.0\MissingInteger.exe
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\bin\Debug\net7.0\MissingInteger.deps.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\bin\Debug\net7.0\MissingInteger.runtimeconfig.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\bin\Debug\net7.0\MissingInteger.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\bin\Debug\net7.0\MissingInteger.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\obj\Debug\net7.0\MissingInteger.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\obj\Debug\net7.0\refint\MissingInteger.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\obj\Debug\net7.0\MissingInteger.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\obj\Debug\net7.0\MissingInteger.genruntimeconfig.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MissingInteger\obj\Debug\net7.0\ref\MissingInteger.dll
